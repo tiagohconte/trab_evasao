@@ -1,0 +1,146 @@
+FORMA_EVASAO,PERIODO,FORMA_INGRESSO,ANO_INGRESSO,SEXO
+Abandono,1o. Semestre,Reopção,2007,M
+Abandono,1o. Semestre,Vestibular,2005,M
+Abandono,1o. Semestre,Reopção,2007,M
+Abandono,1o. Semestre,Vestibular,2006,M
+Abandono,1o. Semestre,Reopção,2009,M
+Abandono,1o. Semestre,Vestibular,2007,M
+Abandono,1o. Semestre,Vestibular,2008,M
+Abandono,1o. Semestre,Reopção,2009,F
+Abandono,1o. Semestre,Vestibular,2009,M
+Abandono,1o. Semestre,Vestibular,2009,M
+Abandono,1o. Semestre,Vestibular,2012,F
+Abandono,1o. Semestre,Processo Seletivo/ENEM,2013,M
+Abandono,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2007,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2006,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2009,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2009,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2009,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2009,M
+Cancelamento Pedido,1o. Semestre,Processo Seletivo/ENEM,2013,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2014,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2014,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2014,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2014,M
+Cancelamento Pedido,1o. Semestre,Vestibular,2014,M
+Cancelamento Pedido,1o. Semestre,Processo Seletivo/ENEM,2014,F
+Descumprimento Edital,1o. Semestre,Vestibular,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,F
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,F
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,F
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,F
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Desistência Vestibular,1o. Semestre,Vestibular,2014,M
+Desistência Vestibular,1o. Semestre,Vestibular,2014,M
+Desistência Vestibular,1o. Semestre,Vestibular,2014,M
+Desistência Vestibular,1o. Semestre,Vestibular,2014,M
+Desistência Vestibular,1o. Semestre,Vestibular,2014,M
+Desistência Vestibular,1o. Semestre,Vestibular,2014,M
+Desistência Vestibular,1o. Semestre,Vestibular,2014,M
+Desistência Vestibular,1o. Semestre,Vestibular,2014,M
+Formatura,1o. Semestre,Vestibular,2004,M
+Formatura,1o. Semestre,Vestibular,2004,M
+Formatura,1o. Semestre,Vestibular,2006,M
+Formatura,1o. Semestre,Vestibular,2006,M
+Formatura,1o. Semestre,Reopção,2009,M
+Formatura,1o. Semestre,Vestibular,2006,M
+Formatura,1o. Semestre,Transferência Provar,2006,M
+Formatura,1o. Semestre,Transferência Provar,2007,M
+Formatura,1o. Semestre,Vestibular,2007,M
+Formatura,1o. Semestre,Vestibular,2007,M
+Formatura,1o. Semestre,Vestibular,2007,M
+Formatura,1o. Semestre,Vestibular,2007,M
+Formatura,1o. Semestre,Vestibular,2007,M
+Formatura,1o. Semestre,Vestibular,2008,M
+Formatura,1o. Semestre,Vestibular,2008,M
+Formatura,1o. Semestre,Vestibular,2008,M
+Formatura,1o. Semestre,Vestibular,2008,M
+Formatura,1o. Semestre,Vestibular,2008,M
+Formatura,1o. Semestre,Vestibular,2009,M
+Formatura,1o. Semestre,Vestibular,2009,M
+Formatura,1o. Semestre,Vestibular,2009,M
+Formatura,1o. Semestre,Vestibular,2010,M
+Formatura,1o. Semestre,Vestibular,2010,M
+Formatura,1o. Semestre,Vestibular,2010,M
+Formatura,1o. Semestre,Vestibular,2011,M
+Não Confirmação de Vaga,1o. Semestre,Vestibular,2014,F
+Não Confirmação de Vaga,1o. Semestre,Vestibular,2014,M
+Não Confirmação de Vaga,1o. Semestre,Vestibular,2014,M
+Não Confirmação de Vaga,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Não Confirmação de Vaga,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Não Confirmação de Vaga,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Não Confirmação de Vaga,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Não Confirmação de Vaga,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Não Confirmação de Vaga,1o. Semestre,Processo Seletivo/ENEM,2014,M
+Novo Vestibular,1o. Semestre,Vestibular,2008,F
+Novo Vestibular,1o. Semestre,Vestibular,2009,F
+Novo Vestibular,1o. Semestre,Vestibular,2009,F
+Novo Vestibular,1o. Semestre,Vestibular,2010,F
+Novo Vestibular,1o. Semestre,Vestibular,2011,M
+Novo Vestibular,1o. Semestre,Vestibular,2011,M
+Reopção,1o. Semestre,Vestibular,2012,M
+Reopção,1o. Semestre,Vestibular,2013,F
+Reopção,1o. Semestre,Vestibular,2013,M
+Término de Registro Temporário,1o. Semestre,Mobilidade Acadêmica,2013,M
+Término de Registro Temporário,1o. Semestre,Convênio AUGM,2013,M
+Abandono,2o. Semestre,Vestibular,2001,M
+Abandono,2o. Semestre,Vestibular,2006,M
+Abandono,2o. Semestre,Vestibular,2006,M
+Abandono,2o. Semestre,Vestibular,2007,M
+Abandono,2o. Semestre,Vestibular,2007,M
+Abandono,2o. Semestre,Vestibular,2007,M
+Abandono,2o. Semestre,Vestibular,2007,F
+Abandono,2o. Semestre,Vestibular,2007,M
+Abandono,2o. Semestre,Vestibular,2007,M
+Abandono,2o. Semestre,Vestibular,2007,M
+Abandono,2o. Semestre,Vestibular,2008,M
+Abandono,2o. Semestre,Vestibular,2008,M
+Abandono,2o. Semestre,Vestibular,2008,M
+Abandono,2o. Semestre,Vestibular,2008,M
+Abandono,2o. Semestre,Vestibular,2009,M
+Abandono,2o. Semestre,Vestibular,2009,M
+Abandono,2o. Semestre,Vestibular,2010,M
+Abandono,2o. Semestre,Vestibular,2011,F
+Abandono,2o. Semestre,Vestibular,2011,M
+Abandono,2o. Semestre,Vestibular,2012,M
+Abandono,2o. Semestre,Vestibular,2012,M
+Abandono,2o. Semestre,Vestibular,2013,F
+Abandono,2o. Semestre,Vestibular,2013,M
+Abandono,2o. Semestre,Vestibular,2013,M
+Abandono,2o. Semestre,Vestibular,2013,
+Abandono,2o. Semestre,Vestibular,2014,M
+Abandono,2o. Semestre,Processo Seletivo/ENEM,2014,F
+Cancelamento Pedido,2o. Semestre,Vestibular,2014,M
+Cancelamento Pedido,2o. Semestre,Processo Seletivo/ENEM,2014,M
+Cancelamento Pedido,2o. Semestre,Processo Seletivo/ENEM,2014,M
+Falecimento,2o. Semestre,Vestibular,2012,M
+Formatura,2o. Semestre,Vestibular,2006,M
+Formatura,2o. Semestre,Vestibular,2006,M
+Formatura,2o. Semestre,Aproveitamento Curso Superior,2008,F
+Formatura,2o. Semestre,Vestibular,2008,M
+Formatura,2o. Semestre,Vestibular,2008,M
+Formatura,2o. Semestre,Vestibular,2008,M
+Formatura,2o. Semestre,Vestibular,2009,M
+Formatura,2o. Semestre,Vestibular,2009,F
+Formatura,2o. Semestre,Vestibular,2009,M
+Formatura,2o. Semestre,Vestibular,2010,M
+Formatura,2o. Semestre,Vestibular,2010,M
+Formatura,2o. Semestre,Vestibular,2010,M
+Formatura,2o. Semestre,Vestibular,2010,F
+Formatura,2o. Semestre,Vestibular,2010,M
+Formatura,2o. Semestre,Vestibular,2011,M
+Formatura,2o. Semestre,Vestibular,2011,M
+Jubilamento,2o. Semestre,Vestibular,2007,M
+Novo Vestibular,2o. Semestre,Vestibular,2004,M
+Término de Registro Temporário,2o. Semestre,Mobilidade Acadêmica,2014,M
